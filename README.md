@@ -42,7 +42,6 @@ Now you create the container…
 docker run -d -p  8000:8000 --name casdoor -v ./casdoor-data:/var/lib/mysql casbin/casdoor-all-in-one
 ```
 
-
 Three comments on that:
 
 + The Casdoor portal on your machine can be accessed using http://localhost:8000. If you need another port that change “8000:8000” to something else like "9000:8000". The second port is internally used inside the Docker container. Do not change that. The first port is the published one on your machine.
@@ -59,7 +58,7 @@ Now … create some users.
 
 Then… create an "application":
 
-<<image>>
+![Create App](https://blog.kenaro.com/wp-content/uploads/2022/02/grafik-551x1024.png)
   
 ## Part 3: The code
 
@@ -71,15 +70,15 @@ Open the solution in Visual Studio 2022. Run it.
 
 It will open a browser and looks like this:
   
-<<image>>
+![StartApp](https://blog.kenaro.com/wp-content/uploads/2022/02/grafik-1-1024x485.png)
   
 Click “Authenticate using Casdoor”
   
-<<image>>
+![Authenticate](https://blog.kenaro.com/wp-content/uploads/2022/02/grafik-3-1024x460.png)
   
 Authenticate…
   
-<<image>>
+![SeeTheUser](https://blog.kenaro.com/wp-content/uploads/2022/02/grafik-4-1024x460.png)
   
   
 Thats it.
