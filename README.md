@@ -61,7 +61,7 @@ Then… create an "application":
 
 <<image>>
   
-Part 3: The code
+## Part 3: The code
 
 Now clone my github project:
 
@@ -78,6 +78,9 @@ Click “Authenticate using Casdoor”
 <<image>>
   
 Authenticate…
+  
+<<image>>
+  
   
 Thats it.
 
