@@ -1,5 +1,5 @@
 ﻿/* written and directed by Ingo Karstein 
-https://github.com/ikarstein/com.kenaro.public.OAuth2Demo.Casdoor
+https://github.com/ikarstein/com.kenaro.public.OAuth2Demo.Authentik
 
 License: Apache 2
 
@@ -9,7 +9,7 @@ Please keep this comment.
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
 
-namespace com.kenaro.@public.OAuth2Demo.Casdoor;
+namespace com.kenaro.@public.OAuth2Demo.Authentik;
 
 public static class Program
 {

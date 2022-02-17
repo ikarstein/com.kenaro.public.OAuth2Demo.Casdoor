@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32126.317
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "com.kenaro.public.OAuth2Demo.Casdoor", "com.kenaro.public.OAuth2Demo.Casdoor.csproj", "{B0231EBE-4C35-420F-BF49-89CCF4F9F76F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "com.kenaro.public.OAuth2Demo.Authentik", "com.kenaro.public.OAuth2Demo.Authentik.csproj", "{B0231EBE-4C35-420F-BF49-89CCF4F9F76F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

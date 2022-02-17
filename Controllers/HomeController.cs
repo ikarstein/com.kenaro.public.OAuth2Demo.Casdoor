@@ -1,5 +1,5 @@
 ﻿/* written and directed by Ingo Karstein 
-https://github.com/ikarstein/com.kenaro.public.OAuth2Demo.Casdoor
+https://github.com/ikarstein/com.kenaro.public.OAuth2Demo.Authentik
 
 License: Apache 2
 
@@ -10,7 +10,7 @@ using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Mvc;
 
-namespace com.kenaro.@public.OAuth2Demo.Casdoor;
+namespace com.kenaro.@public.OAuth2Demo.Authentik;
 
 public class HomeController : Controller
 {
